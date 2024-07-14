@@ -11,8 +11,8 @@ Text summarization plays a crucial role in condensing large volumes of informati
 To get started with the tutorial paper and accompanying code, follow these simple steps:
 
 1. Clone this repository to your local machine.
-2. Read through the tutorial paper (Tutorial Paper.pdf) provided in the root directory.
-Follow along with the exercises and examples presented in the paper to gain a deeper understanding of text summarization techniques.
+2. Read through the tutorial paper `Tutorial Paper.pdf` provided in the root directory.
+3. Follow along with the exercises and examples presented in the paper to gain a deeper understanding of text summarization techniques.
 4. Navigate to the `codes` folder to access the implementation examples. Experiment with the code, modify parameters, and try out different datasets to reinforce your learning and explore the practical applications of text summarization.
 
 
